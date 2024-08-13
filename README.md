@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Description
+This project is a component of a larger initiative. We required a chat interface to facilitate communication with a large language model (LLM), so I developed it.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
